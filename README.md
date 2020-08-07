@@ -16,6 +16,19 @@ With this collective we are aiming to achieve to following
 
 Our aim is to create a strong network of SPOs with a best practise infrastrucutr.  We are looking to do this with support of partners such as the STOs, various pool ranking operators and organizations such as IOHK. 
 
+# What are the benefits to our members
+
+Being part of the CSTOC will provide the members a number of benefits such as:
+
+- Access to a strong topology network with vetted and quality nodes (24/7 uptimes)
+- Verifable certifications to highlight the SPOs skills and ability
+- Support channels for various stake pool setup's and operations
+- Marketable for your stakers to attract a larger stake
+- Access to best practise guides
+- Access to community made tools
+
+# What is our roadmap
+
 # Who are the founding members of the CSTOC
 
 - Antonie Geerts - (CNT Pool)
@@ -24,7 +37,7 @@ Our aim is to create a strong network of SPOs with a best practise infrastrucutr
 -
 -
 
-# What is our roadmap
+
 
 
 
